@@ -1,5 +1,5 @@
 # TownyUUIDFix
 
-This plugin was created as a replacement for TownyNameUpdater back in 2018. I haven't touch this code since it was created and implemented onto the network it was made for.
+This plugin was created as a replacement for TownyNameUpdater back in 2018. This code has been untouched until recently to add H2 support. Which is untested as of right now.
 
-The only change that was made since then was H2 support, though that's untested.
+This plugin was never made to look or act professional, it was just made to get the job done in a way that wasted less CPU cycles than TownyNameUpdater on large servers.

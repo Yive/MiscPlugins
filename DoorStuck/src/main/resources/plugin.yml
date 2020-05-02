@@ -1,0 +1,5 @@
+name: DoorStuck
+version: ${project.version}
+main: dev.yive.doorstuck.DoorStuck
+authors: [Yive]
+description: Teleports player to spawn if stuck in nether portal or end portal

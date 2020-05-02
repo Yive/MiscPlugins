@@ -1,0 +1,5 @@
+name: AntiAnvilDamage
+version: ${project.version}
+main: dev.yive.antianvildamage.AntiAnvilDamage
+authors: [Yive]
+description: Disables the ability to damage anvils in certain worlds.

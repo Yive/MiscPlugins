@@ -1,0 +1,4 @@
+name: TownyUUIDFix
+version: ${project.version}
+main: com.yivesmirror.townyuuidfix.TownyUUIDFix
+depend: [Towny]

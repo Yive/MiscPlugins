@@ -1,0 +1,7 @@
+# Swap between storage modes h2 or yaml.
+mode: "yaml"
+
+# H2 Database details. These can be changed if you like, but they're not really important.
+database:
+  user: "townyuuidfix"
+  pass: "townyuuidfix"

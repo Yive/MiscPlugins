@@ -1,0 +1,5 @@
+name: AntiMobInventories
+version: ${project.version}
+main: dev.yive.antimobinventories.AntiMobInventories
+authors: [Yive]
+description: Disables the ability to place chests on certain mobs and open the inventory of said mob if a hacked client was able to bypass placing a chest on the mob.
